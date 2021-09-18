@@ -34,17 +34,17 @@ Acompañar con imágenes, fotografías, capturas de pantalla, etc.
 # Planificación de mi sitio web
 
 
-1- Nombre del sitio web
+### 1- Nombre del sitio web
 
 El nombre de mi sitio web seria Look “Pulso fotográfico” la palabra look está referido a miradas  traducido del inglés y pulso tiene que ver  con la vida junto a la fotografía.
 
 
 
-2- Dominio
+### 2- Dominio
 
 www.lookpulsofotografico.com.ar
 
-3- Misión
+### 3- Misión
 
 ¿Quienes somos, qué hacemos?
 
@@ -57,7 +57,7 @@ Cada día voy aprendiendo algo nuevo y descubriendo lo que puedo hacer con un un
 La idea de este sitio web es mostrar nuestra mirada hacia la fotografía, con fotos callejeras, de retrato, foto macro, paisajes, ir mostrando el arte fotográfico de cada uno, así también transmitir nuestra experiencia a quienes están iniciando en la fotografía un sitio donde todos puedan subir su fotografía comentarla y  dar opiniones constructivas, ayudando a mejorar sus toma, a inspirarse y animarse a más. 
 
 
-4- Público destinatario
+### 4- Público destinatario
 
 ¿Para quiénes lo hacemos?
 
@@ -65,7 +65,7 @@ El sitio web estaría dirigido a un público amplio, quienes estén iniciando en
 Quienes cuenten con una cámara, celular o ninguno de esto y solo le guste apreciar la fotografía.
 A personas que le guste la edición, el retoque en la fotográfica y busquen motivación e inspiración  en ella.
 
-5- Competencia y características del rubro
+### 5- Competencia y características del rubro
 
 Factores del contexto a tener en cuenta. Oportunidades y Amenazas.
 
@@ -73,19 +73,21 @@ Cuando uno se compra una cámara de fotografía pueden buscar este tipo de conte
 Personas que buscan inspiración para hacer sus fotos o edición.
 Aceptación incierta del público debido a que el contenido no estaría respaldado por un profesional de la fotografía.
 Fotógrafos que pueden restar valor a al sitio web.
-6- Visión
+
+### 6- Visión
 
 ¿Cómo queremos ser reconocidos?
 
 Ser un gran sitio web de consumo visual e informativo referido  a la fotografía e edición de imagen.  Reconocido por el medio por  promover la creatividad,  inspiración y desarrollo de contenido, satisfaciendo al que visite el sitio web en lo que busca.
 
 
-7- Valores
+### 7- Valores
 
 Los conceptos o palabras clave que más definen el proyecto.
 
 Fotos, cámara, retoque de imagen, photosop, imágenes, retrato, fotografía móvil, taller fotográfico, muestra fotográfica…etc. 
-8- Objetivos
+
+### 8- Objetivos
 
 ¿Dónde queremos ir? ¿Qué resultados esperamos lograr?
 
@@ -95,11 +97,11 @@ Determinar una motivación  e inspiración  y creatividad hacia la fotografía.
 
 Crear una comunidad donde se lleve a cabo talleres y el desarrollo de la fotografía. 
 
-9- Metas
+### 9- Metas
 
 Conseguir  100 visitas y subscriptores al sitio web en un mes.
 
-10- Estrategias
+### 10- Estrategias
 
 ¿Cómo puedo alcanzar los objetivos o cómo puedo llegar a los resultados esperados?
 
