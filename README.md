@@ -21,9 +21,9 @@ Acompañar con imágenes, fotografías, capturas de pantalla, etc.
   4. Recopilación de recursos (imágenes, información, etc.).
   6. Elección del tema de Wordpress.
   7. Prototipo en un servidor local.
-       Instalación de un servidor local (XAMPP) y Wordpress.
-       Instalación del tema.
-       Plugins: elección, instalación y testeo.
+      - Instalación de un servidor local (XAMPP) y Wordpress.
+      - Instalación del tema.
+      - Plugins: elección, instalación y testeo.
   8. Pruebas UI y UX.
   9. Depuración de errores y rediseño de páginas.
   10. Implementación en un hosting.
