@@ -3,6 +3,6 @@ Sitio web propuesto como un emprendimiento personal, se realizo planificación, 
 Presentado como trabajo final.
 
 # Objetivos del Proyecto
-Realizar planificación de un sitio web.
-Afirmar y conectar los conceptos aprendidos en el curso.
-Aprender mejores prácticas.
+- Realizar planificación de un sitio web.
+- Afirmar y conectar los conceptos aprendidos en el curso.
+- Aprender mejores prácticas.
