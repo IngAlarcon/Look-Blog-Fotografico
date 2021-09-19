@@ -31,8 +31,6 @@ Acompañar con imágenes, fotografías, capturas de pantalla, etc.
   10. Implementación en un hosting.
   11. Corrección de errores final.
 
-
-
 # Planificación de mi sitio web
 
 
@@ -40,11 +38,9 @@ Acompañar con imágenes, fotografías, capturas de pantalla, etc.
 
 El nombre de mi sitio web seria Look “Pulso fotográfico” la palabra look está referido a miradas  traducido del inglés y pulso tiene que ver  con la vida junto a la fotografía.
 
-
-
 ### 2- Dominio
 
-www.lookpulsofotografico.com.ar
+[www.lookpulsofotografico.com.ar](https://centro410laplata.edu.ar/look/)
 
 ### 3- Misión
 
@@ -91,12 +87,10 @@ Fotos, cámara, retoque de imagen, photosop, imágenes, retrato, fotografía mó
 
 ### 8- Objetivos
 
-¿Dónde queremos ir? ¿Qué resultados esperamos lograr?
+#### ¿Dónde queremos ir? ¿Qué resultados esperamos lograr?
 
 Lograr trasmitir una experiencia única al que visite el sitio web
-
 Determinar una motivación  e inspiración  y creatividad hacia la fotografía.
-
 Crear una comunidad donde se lleve a cabo talleres y el desarrollo de la fotografía. 
 
 ### 9- Metas
@@ -108,18 +102,13 @@ Conseguir  100 visitas y subscriptores al sitio web en un mes.
 #### ¿Cómo puedo alcanzar los objetivos o cómo puedo llegar a los resultados esperados?
 
 Para conseguir las visitas en mi sitio web se realizaría una campaña publicitaria en redes sociales:
-
 En facebook sabiendo contenido del blog e imágenes, ordenándola de una manera atractiva para los que la visiten y así redirigirse al sitio web.
-
 Por Instagram publica fotos destacadas que se suben a la galería del sitio web.
-
 Youtube creando contenido tutoriales como edición fotografía y tema del ambiente.
- 
 Compartiendo el contenido en grupos y páginas  de redes sociales.
- 
 Otra estrategia seria asistir a eventos y  muestras sobre fotografía para comentar sobre el sitio.
-
 Realizar concursos de alguna temática en particular o retos fotográficos, premiando  tener  un reconocimiento en el sitio web y redes sociales.  
+
 
 
 
