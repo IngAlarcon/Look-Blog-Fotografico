@@ -17,7 +17,7 @@ Debe ser un proyecto real, puede ser un emprendimiento personal o colectivo, un 
 Además, si existen, deberán relevar el contenido de publicaciones de facebook, páginas, publicidades, bocetos, diseños, logotipo, etc.
 Acompañar con imágenes, fotografías, capturas de pantalla, etc.
 
-### Para la creación del sitio web, la metodología que se ha empleado es la siguiente:
+### Para la creación del sitio web, se llevo acabo la siguiente metodología :
   1. Briefing.
   2. Sitemap.
   4. Recopilación de recursos (imágenes, información, etc.).
@@ -102,12 +102,12 @@ Conseguir  100 visitas y subscriptores al sitio web en un mes.
 #### ¿Cómo puedo alcanzar los objetivos o cómo puedo llegar a los resultados esperados?
 
 Para conseguir las visitas en mi sitio web se realizaría una campaña publicitaria en redes sociales:
-En facebook sabiendo contenido del blog e imágenes, ordenándola de una manera atractiva para los que la visiten y así redirigirse al sitio web.
-Por Instagram publica fotos destacadas que se suben a la galería del sitio web.
-Youtube creando contenido tutoriales como edición fotografía y tema del ambiente.
-Compartiendo el contenido en grupos y páginas  de redes sociales.
-Otra estrategia seria asistir a eventos y  muestras sobre fotografía para comentar sobre el sitio.
-Realizar concursos de alguna temática en particular o retos fotográficos, premiando  tener  un reconocimiento en el sitio web y redes sociales.  
+- En facebook subir contenido del blog e imágenes, ordenándola de una manera atractiva para los visitantes y así redirigirse al sitio web.
+- Por Instagram publica fotos destacadas que se suben a la galería del sitio web.
+- Youtube creando contenido tutoriales como edición de fotografía y tema del ambiente.
+- Compartiendo el contenido en grupos y páginas de redes sociales.
+- Otra estrategia seria asistir a eventos y muestras sobre fotografía para comentar sobre el sitio.
+- Realizar concursos de alguna temática en particular o retos fotográficos, premiando  tener  un reconocimiento en el sitio web y redes sociales.  
 
 
 
