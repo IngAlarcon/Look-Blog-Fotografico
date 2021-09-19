@@ -48,7 +48,7 @@ www.lookpulsofotografico.com.ar
 
 ### 3- Misión
 
-##### ¿Quienes somos, qué hacemos?
+#### ¿Quienes somos, qué hacemos?
 
 Soy un joven entusiasta por la fotografía, sin aun haber realizado fotos profesionales, más que hecho típicas fotos a familiares, a amigos y en vacaciones. 
 
@@ -61,7 +61,7 @@ La idea de este sitio web es mostrar nuestra mirada hacia la fotografía, con fo
 
 ### 4- Público destinatario
 
-##### ¿Para quiénes lo hacemos?
+#### ¿Para quiénes lo hacemos?
 
 El sitio web estaría dirigido a un público amplio, quienes estén iniciando en la fotografía como entusiastas, aficionados, estudiantes y también profesionales.
 Quienes cuenten con una cámara, celular o ninguno de esto y solo le guste apreciar la fotografía.
@@ -69,7 +69,7 @@ A personas que le guste la edición, el retoque en la fotográfica y busquen mot
 
 ### 5- Competencia y características del rubro
 
- ##### Factores del contexto a tener en cuenta. Oportunidades y Amenazas.
+ #### Factores del contexto a tener en cuenta. Oportunidades y Amenazas.
 
 Cuando uno se compra una cámara de fotografía pueden buscar este tipo de contenido.
 Personas que buscan inspiración para hacer sus fotos o edición.
@@ -78,14 +78,14 @@ Fotógrafos que pueden restar valor a al sitio web.
 
 ### 6- Visión
 
-##### ¿Cómo queremos ser reconocidos?
+#### ¿Cómo queremos ser reconocidos?
 
 Ser un gran sitio web de consumo visual e informativo referido  a la fotografía e edición de imagen.  Reconocido por el medio por  promover la creatividad,  inspiración y desarrollo de contenido, satisfaciendo al que visite el sitio web en lo que busca.
 
 
 ### 7- Valores
 
-##### Los conceptos o palabras clave que más definen el proyecto.
+#### Los conceptos o palabras clave que más definen el proyecto.
 
 Fotos, cámara, retoque de imagen, photosop, imágenes, retrato, fotografía móvil, taller fotográfico, muestra fotográfica…etc. 
 
@@ -105,7 +105,7 @@ Conseguir  100 visitas y subscriptores al sitio web en un mes.
 
 ### 10- Estrategias
 
-##### ¿Cómo puedo alcanzar los objetivos o cómo puedo llegar a los resultados esperados?
+#### ¿Cómo puedo alcanzar los objetivos o cómo puedo llegar a los resultados esperados?
 
 Para conseguir las visitas en mi sitio web se realizaría una campaña publicitaria en redes sociales:
 
